@@ -24,6 +24,13 @@
 *.x86_64
 *.hex
 
+# Debug files
+*.mk
+*.list
+*.cyclo
+*.d
+*.su
+
 # Misc
 *.map
 *.m
@@ -36,7 +43,7 @@
 .vagrant/
 
 # Include makefiles
-!Makefile
+makefile
 *~
 
 # Libraries
