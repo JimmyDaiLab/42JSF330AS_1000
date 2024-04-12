@@ -1,0 +1,9 @@
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:165:13:MCP_ReceivedFrame	80	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:137:13:MCP_WaitNextFrame	8	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:100:13:MCP_Init	24	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:127:13:MCP_OnTimeOut	8	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:152:13:MCP_SentFrame	8	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:647:13:MCP_SendOverrunMessage	16	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:658:13:MCP_SendTimeoutMessage	16	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:669:13:MCP_SendATRMessage	64	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/Src/motor_control_protocol.c:710:13:MCP_SendBadCRCMessage	16	static

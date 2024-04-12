@@ -1,0 +1,6 @@
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/MCSDK_v5.4.8-Full/MotorControl/MCSDK/MCLib/Any/Src/encoder_speed_pos_fdbk.c:63:13:ENC_Init	4	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/MCSDK_v5.4.8-Full/MotorControl/MCSDK/MCLib/Any/Src/encoder_speed_pos_fdbk.c:110:13:ENC_Clear	8	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/MCSDK_v5.4.8-Full/MotorControl/MCSDK/MCLib/Any/Src/encoder_speed_pos_fdbk.c:126:16:ENC_CalcAngle	4	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/MCSDK_v5.4.8-Full/MotorControl/MCSDK/MCLib/Any/Src/encoder_speed_pos_fdbk.c:170:13:ENC_CalcAvrgMecSpeedUnit	20	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/MCSDK_v5.4.8-Full/MotorControl/MCSDK/MCLib/Any/Src/encoder_speed_pos_fdbk.c:301:13:ENC_SetMecAngle	4	static
+D:/1.Dev/1.Fw/STM32G4/ST_motor_test/42JSF330AS_1000/MCSDK_v5.4.8-Full/MotorControl/MCSDK/MCLib/Any/Src/encoder_speed_pos_fdbk.c:333:15:ENC_IRQHandler	0	static
